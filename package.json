@@ -9,7 +9,7 @@
   "author": "Mark Percival <m@mdp.im>",
   "license": "MIT",
   "dependencies": {
-    "appliance_shim": "0.0.2",
+    "appliance_shim": "^0.0.3",
     "gulp": "^3.8.5",
     "gulp-browserify": "^0.5.0",
     "express": "^4.4.5"
